@@ -1,7 +1,7 @@
 # Zenius Assignment - Problem Generator
 Tes     : 14 Desember 2021 
 Nama    : Eugenius Mario Situmorang
-Kontak  : eugenius.mario@ui.ac.id / WA : +62 858 7148 4239 
+Kontak  : eugenius.mario@ui.ac.id 
 Lang    : Python
 
 Catatan : Setiap Jawaban.txt tidak hanya berupa jawaban saja melainkan juga berisi penjelasan tentang DETAIL dari alur
